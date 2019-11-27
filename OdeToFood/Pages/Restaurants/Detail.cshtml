@@ -1,4 +1,4 @@
-﻿@page "{restaurantId:int}"
+﻿@page "{restaurantId:int?}"
 
 @model OdeToFood.Pages.Restaurants.DetailModel
 @{
@@ -6,6 +6,10 @@
 }
 
 <h2>@Model.Restaurant.Name</h2>
+@if (Model.Message != null)
+{
+    <div class="alert alert-info m">@Model.Message</div>
+}
 <div>
     Id: @Model.Restaurant.Id
 </div>
