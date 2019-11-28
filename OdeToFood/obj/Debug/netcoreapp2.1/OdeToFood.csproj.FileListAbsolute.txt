@@ -64,6 +64,7 @@ C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\R
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Delete.cshtml.g.cs
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.cshtml.g.cs
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\List.cshtml.g.cs
