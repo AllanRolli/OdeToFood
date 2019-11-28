@@ -7,6 +7,8 @@ C:\dev\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core
 C:\dev\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
 C:\dev\OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.runtimeconfig.json
+C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.runtimeconfig.dev.json
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache

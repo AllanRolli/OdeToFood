@@ -37,13 +37,6 @@ C:\dev\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
 C:\dev\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
 C:\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.g.cshtml.cs
 C:\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.g.cshtml.cs
-C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
-C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cache
-C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cs
-C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfoInputs.cache
-C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.cs
-C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
-C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\appsettings.json
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
@@ -58,6 +51,11 @@ C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\O
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Data.dll
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
+C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cache
+C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cs
+C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfoInputs.cache
+C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.cs
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.TagHelpers.input.cache
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.TagHelpers.output.cache
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorCoreGenerate.cache
@@ -79,3 +77,5 @@ C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\O
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorTargetAssemblyInfo.cs
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.Views.pdb
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CopyComplete
+C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
+C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb

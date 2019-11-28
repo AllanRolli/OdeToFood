@@ -11,6 +11,8 @@ C:\dev\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data
 C:\dev\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
 C:\dev\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.deps.json
+C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.json
+C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.dev.json
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.dll
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
 C:\Users\GoCart\Documents\Projects\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
